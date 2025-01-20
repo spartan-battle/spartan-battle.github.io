@@ -1,2 +1,2 @@
-# spartan-battle.github.io
-Spartan Battle
+# Spartan Battle
+АUT VINCERE, AUT MORI
